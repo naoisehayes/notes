@@ -1,4 +1,4 @@
-title: Stalin 1928-1953
+title: Stalin (1928-1953)
 description: History Notes- Stalin
 
 # The Great Purge
