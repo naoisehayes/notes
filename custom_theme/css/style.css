@@ -248,6 +248,14 @@ p.article-info {
     overflow-y: auto;
 }
 
+.katex {
+	 font-size: 1.2em !important;
+}
+
+.MathJax {
+font-size: 1.2em !important;
+}
+
 div.search {
     order: 1;
     margin: 1.5rem 0 0;
