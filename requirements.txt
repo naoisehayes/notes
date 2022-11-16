@@ -1,3 +1,4 @@
 mkdocs
 mathjax
 pymdown-extensions
+pygments
