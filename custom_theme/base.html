@@ -57,7 +57,7 @@
 
         <main>
         <button id="sidebar-toggle" onclick="closeOrOpen()">
-		<img src="/pix/menu_icon.svg">
+		<img src="./pix/menu_icon.svg">
         </button>
 
         <aside class="sidebar" id="sidebar">
@@ -83,7 +83,7 @@
 							</li>
 						{%- else %}
 							<li id="{% if nav_item.active %}current{% endif %}">
-								<a {% if not nav_item.active%}href="{{ nav_item.url|url }}"{% endif %} {% if nav_item.active%}onclick="collapseCurrent()"{% endif %}>{% if nav_item.active%}<img src="/pix/expand_more.svg" id="expand_icon">{% endif %}{{ nav_item.title }}</a>
+								<a {% if not nav_item.active%}href="{{ nav_item.url|url }}"{% endif %} {% if nav_item.active%}onclick="collapseCurrent()"{% endif %}>{% if nav_item.active%}<img src="./pix/expand_more.svg" id="expand_icon">{% endif %}{{ nav_item.title }}</a>
 								{% if nav_item.active%}{% include "toc.html" %}{% endif %}
 							</li>
 						{%- endif %}
@@ -121,6 +121,6 @@
     </section>
 
         </main>
-    <a id="darkmodetoggle" onclick="switchTheme()"><img src="/pix/dark_mode.svg"></a>
+    <a id="darkmodetoggle" onclick="switchTheme()"><img src="./pix/dark_mode.svg"></a>
     </body>
 </html>
