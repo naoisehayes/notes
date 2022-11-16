@@ -28,12 +28,12 @@ e.g. - {${1,2,3,4 ...}$}
 - Lowest Common Multiple (LCM) of two or more numbers is the smallest multiple that the given number has in common.
 
 ---
-### Examples
+### Examples of HCF and LCM
 $\text{e.g. 1 - Express 240 as a product of primes.}$
 ```
-            240
+              240
               / \
-           (2) 120
+           (2)  120
                 / \
               (2) 60
                   / \
@@ -62,7 +62,7 @@ $\text{LCM}=2^3\times2^6\times5\times7=17920$
 ---
 &nbsp;
 
-# Integers ($\mathbb{I}$)
+# Integers ($\mathbb{z}$)
 
 &nbsp;
 
@@ -70,7 +70,7 @@ $\text{LCM}=2^3\times2^6\times5\times7=17920$
 
 e.g. - {${... -3,-2,-1,0,1,2,3 ...}$}
 
-**Properties of Integers**
+&nbsp;
 
 If $a,b,c$ are integers:
 
@@ -78,4 +78,49 @@ If $a,b,c$ are integers:
 
 - Commutative property: $(a+b) = (b+a)$ and $ab=ba$
 
--
+- Associative property: $(a+b)+c=a+(b+c)$ and $(ab)c=a(bc)$
+
+- Distributive property: $a(b+c)=ab+ac$
+
+---
+&nbsp;
+
+# Rational Numbers $\mathbb{Q}$
+
+&nbsp;
+
+- Set of numbers that can be written as a ratio of two integers ${p}\over{q}$ where $p,q\in\mathbb{z},q\neq0$
+
+- A rational number will have a decimal expansion that is either terminating or recurring.
+
+- Any fraction whose denominator's prime factors are not only $2$ and/or $5$ is a recurring decimal.
+
+- if ${p}\over{q}$ is a rational number, and $p\neq0$, then ${q}\over{p}$ is its reciprocal.
+
+---
+&nbsp;
+
+# Real Numbers ($\mathbb{R}$)
+
+&nbsp;
+
+- The set of real numbers is the set of all rational and irrational numbers.
+
+&nbsp;
+
+---
+&nbsp;
+
+# Irrational Numbers ($\mathbb{R}/\mathbb{Q}$) or ($\mathbb{I}$)
+
+&nbsp;
+
+- Set of numbers that cannot be expressed as a ratio of two integers ${p}\over{q}$ where $p,q\in\mathbb{z},q\neq0$
+
+- A surd ($\sqrt{xyz}$) is an irrational number containing a rot term, i.e. $\sqrt{2}=1.414213562....$, this number will continue indefinitely and has no pattern.
+
+-  $\pi$ and $e$ are two more examples of irrational numbers.
+
+Note: $\mathbb{N}\subset\mathbb{Z}\subset\mathbb{Q}\subset\mathbb{R}$
+
+---
