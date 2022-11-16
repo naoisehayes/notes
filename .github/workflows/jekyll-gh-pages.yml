@@ -31,14 +31,8 @@ jobs:
 
       # Runs a single command using the runners shell
       - run: pip install -r requirements.txt
-      - name: Remove extra README
-        run: rm ./docs/README.md || echo "nope"
       - name: Build HTML
         run: mkdocs build
-      - name: Minify
-        uses: pryme-svg/minify-action@v1.0.3
-        with:
-          directory: ./site
       - name: Setup Git User
         run: |
           git config --global user.name "github-actions[bot]"
@@ -46,4 +40,4 @@ jobs:
       - name: Push build
         run: |
           pip install ghp-import
-          ghp-import --no-jekyll --message="Deploy $(git rev-parse --short $GITHUB_SHA) (minified)" --push --remote=origin --branch=gh-pages --no-history --force site
+          ghp-import --no-jekyll --message="Deploy $(git rev-parse --short $GITHUB_SHA)" --push --remote=origin --branch=gh-pages --no-history --force site
