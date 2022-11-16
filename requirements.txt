@@ -1,4 +1,2 @@
 mkdocs
 mathjax
-pymdown-extensions
-markdown
