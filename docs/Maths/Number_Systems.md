@@ -124,3 +124,30 @@ If $a,b,c$ are integers:
 Note: $\mathbb{N}\subset\mathbb{Z}\subset\mathbb{Q}\subset\mathbb{R}$
 
 ---
+&nbsp;
+
+Proof that $\sqrt2$ is irrational (Proof by Contradiction)
+
+We will use proof by contradiction to prove: $\sqrt2$ is irrational.
+
+Proof: Assume that $\sqrt2$ is rational and can therefore be written in the form of ${p}\over{q}$ where $p$ and $q$ have no common factors.
+
+$\sqrt2 = \frac{p}{q} \Rightarrow 2 = \frac{p^2}{q^2}$
+
+$\therefore p^2 = 2q^2$
+
+$\text{let }p=2k$
+
+$\Rightarrow p^2=4k^2$
+
+$p^2=2q^2\text{ and }p^2=4k^2$
+
+$\Rightarrow 2q^2=4k^2$
+
+$\Rightarrow q^2=2k^2$
+
+$2$ is a factor of $q^2$, so $2$ is also a factor of $q$
+
+Therefore $2$ is a common factor of $p$ and $q$, this contradicts the original assumption. Thus $\sqrt2$ is an irrational number.
+
+---
