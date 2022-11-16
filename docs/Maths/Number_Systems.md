@@ -32,8 +32,8 @@ e.g. - {${1,2,3,4 ...}$}
 $\text{e.g. 1 - Express 240 as a product of primes.}$
 ```
             240
-            /  \
-          (2)  120
+              / \
+           (2) 120
                 / \
               (2) 60
                   / \
@@ -78,4 +78,4 @@ If $a,b,c$ are integers:
 
 - Commutative property: $(a+b) = (b+a)$ and $ab=ba$
 
-- 
+-
