@@ -7,9 +7,9 @@ edit_uri: "/"
 
 
 markdown_extensions:
-    - pymdownx.arithmatex:
-        generic: true
-    - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+  - attr_list
 
 theme:
     name: null

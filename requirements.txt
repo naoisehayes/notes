@@ -1,4 +1,4 @@
 mkdocs
 mathjax
-pymdown-extensions
-pygments
+pymdown-extensions==9.8
+markdown
