@@ -85,7 +85,7 @@ If $a,b,c$ are integers:
 ---
 &nbsp;
 
-# Rational Numbers $\mathbb{Q}$
+# Rational Numbers ($\mathbb{Q}$)
 
 &nbsp;
 
