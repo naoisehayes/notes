@@ -126,7 +126,7 @@ Note: $\mathbb{N}\subset\mathbb{Z}\subset\mathbb{Q}\subset\mathbb{R}$
 ---
 &nbsp;
 
-Proof that $\sqrt2$ is irrational (Proof by Contradiction)
+# Proof that $\sqrt2$ is irrational (Proof by Contradiction)
 
 We will use proof by contradiction to prove: $\sqrt2$ is irrational.
 
