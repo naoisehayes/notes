@@ -253,7 +253,9 @@ p.article-info {
 }
 
 .MathJax {
-font-size: 1.2em !important;
+		text-align: left !important;
+  	display: inline !important;
+		font-size: 1.2em !important;
 }
 
 div.search {
