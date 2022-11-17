@@ -51,7 +51,7 @@ $240 = 2\times2\times2\times2\times3\times5$
 
 $\text{e.g. 2 - Find (i) the HCF and (ii) the LCM of 512 and 280.}$
 
-$512=\enclose{circle}{2}\times\enclose{circle}{2}\times\enclose{circle}{2}\times2\times2\times2\times2\times2\times2$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $280=\enclose{circle}{2}\times\enclose{circle}{2}\times\enclose{circle}{2}\times5\times7$
+$512={2}\times{2}\times{2}\times2\times2\times2\times2\times2\times2$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $280={2}\times{2}\times{2}\times5\times7$
 
 $512=2^9$
 
