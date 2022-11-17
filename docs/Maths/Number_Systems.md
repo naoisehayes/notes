@@ -151,3 +151,105 @@ $2$ is a factor of $q^2$, so $2$ is also a factor of $q$
 Therefore $2$ is a common factor of $p$ and $q$, this contradicts the original assumption. Thus $\sqrt2$ is an irrational number.
 
 ---
+&nbsp;
+
+# Construct $\sqrt2$
+
+![](https://ptpimg.me/1d4t4q.jpg)
+
+&nbsp;
+
+Proof:
+
+$|ab|=|bc|=1$    (radii of circle)
+
+$|ab|^2+|bc|^2=|ac|^2$
+
+$1^2+1^2=|ac|^2$
+
+$2=|ac|^2$
+
+$\sqrt2=|ac|$
+
+---
+&nbsp;
+
+# Construct $\sqrt3$
+
+&nbsp;
+
+![](https://ptpimg.me/x425hb.jpg)
+
+&nbsp;
+
+Proof:
+
+$[CD]$ and $[AB]$ are perpendicular bisectors of each other.
+
+$\therefore |AE|=\frac{1}{2}|AB|=1$
+
+$|AC|=1$ (Construction)
+
+$|AE|^2+|EC|=|AC|^2$
+
+$(\frac{1}{2})^2+|EC|^2=1^2$
+
+$|EC|^2=1-\frac{1}{4}=\frac{3}{4}$
+
+$\therefore |EC|=\sqrt\frac{3}{4}=\frac{\sqrt3}{2}$
+
+$|CD|=2|EC|=2(\frac{\sqrt3}{2})$
+
+$\therefore|CD|=\sqrt3$
+
+---
+
+&nbsp;
+
+# Rounding and Significant Figures
+
+&nbsp;
+
+E.G. Write the following correct to one decimal place.
+
+i) $2.57$
+
+ans $=2.6$
+
+ii) $39.32$
+
+ans $=39.3$
+
+---
+
+E.G. Write the following numbers to two significant figures:
+
+i) $3.67765$
+
+ans $=3.7$
+
+ii) $61,343$
+
+ans $=61000$
+
+iii) $0.00356$
+
+ans $=0.0036$
+
+---
+
+E.G. Write the following numbers in scientific notation:
+
+i) $725,000,000,000$
+
+ans $=7.25\times10^{11}$
+
+ii) $980,000$
+
+ans $=9.8\times10^{5}$
+
+iii) $0.0000056$
+
+ans $=5.6\times10^{-6}$
+
+----
