@@ -41,7 +41,7 @@ Law 3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\sqrt{a^2}=a$
 
 &nbsp;
 
-#Logarithms
+# Logarithms
 
 - Logarithms and indices are closely linked.
 
