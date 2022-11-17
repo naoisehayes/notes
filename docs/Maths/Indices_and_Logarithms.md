@@ -22,3 +22,33 @@ Law 7 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $a^{-p}=\frac{1}{a^p}$ &nbsp;&nbsp;&nbsp;&n
 Law 8 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $(ab)^p=(a^p)(b^p)$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $((2x)^6=(2)^6(x)^6)$
 
 Law 9 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $(\frac{a}{b})^p=\frac{a^p}{b^p}$ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $((\frac{4}{3})^5=\frac{4^5}{3^5})$
+
+---
+
+&nbsp;
+
+# Laws of Surds
+
+&nbsp;
+
+Law 1 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\sqrt{a} \sqrt{b}=\sqrt{ab}$
+
+Law 2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}$
+
+Law 3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; $\sqrt{a^2}=a$
+
+---
+
+&nbsp;
+
+#Logarithms
+
+- Logarithms and indices are closely linked.
+
+- Raising a base to a power and finding the logarithm to the base are inverse operations
+
+$2^3=8 \Leftarrow\Rightarrow log_2(8)=3$
+
+$a^n=y \Leftarrow\Rightarrow log_a(y)=n$
+
+&nbsp;
