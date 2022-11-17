@@ -117,7 +117,7 @@ If $a,b,c$ are integers:
 
 - Set of numbers that cannot be expressed as a ratio of two integers ${p}\over{q}$ where $p,q\in\mathbb{z},q\neq0$
 
-- A surd ($\sqrt{xyz}$) is an irrational number containing a rot term, i.e. $\sqrt{2}=1.414213562....$, this number will continue indefinitely and has no pattern.
+- A surd ($\sqrt{xyz}$) is an irrational number containing a root term, i.e. $\sqrt{2}=1.414213562....$, this number will continue indefinitely and has no pattern.
 
 -  $\pi$ and $e$ are two more examples of irrational numbers.
 
