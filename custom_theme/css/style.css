@@ -409,7 +409,7 @@ a {
 img[alt=small] { width: 200px; }
 
 #content {
-    padding: 70px;
+    padding: 60px;
 }
 /* main and sidebar open and collapsed styles */
 #content.normal {
