@@ -66,6 +66,25 @@ $a^n=y \Leftarrow\Rightarrow log_a(y)=n$
 
 # Examples
 
-$$
+---
+&nbsp;
+
+\[
 \displaylines{\text{Solve }4^x=\frac{8}{\sqrt2}, x\in\mathbb{Q}\\\\(2^2)^x=\frac{2^3}{2^{\frac{1}{2}}}\\\\2^{2x}=2^{3-\frac{1}{2}}\\\\2x=x\frac{1}{2}\\\\x=\frac{2\frac{1}{2}}{2}\\\\x=1\frac{1}{4}}
-$$
+\]
+
+&nbsp;
+
+---
+
+&nbsp;
+
+\[
+\displaylines{\text{Solve the equation: }\\\\3^{2x+1}-28(3x)+9=0\\\\(3^1)(3^{2x})-28(3x)+9=0\\\\3(3^x)^2-28(3^x)+9=0\\\\\text{let }3^x=y\\\\3y^2-28y+9=0\\\\3y^2-27y-1y+9=0\\\\3y(y-9)-1(y-9)=0\\\\(3y-1)(y-9)=0\\\\3y-1=0\quad\text{ or }\quad y-9=0\\\\3y=1\quad\text{ or }\quad y=9\\\\y=\frac{1}{3}\quad\text{ or }\quad y=9\\\\3^x=\frac{1}{3}\quad\text{ or }\quad 3^x=9\\\\\quad\quad\quad\quad\quad\quad\quad3^x=3^2\\\\\quad\quad\quad\quad\quad\quad\quad x=2}
+\]
+
+&nbsp;
+
+---
+
+&nbsp;
