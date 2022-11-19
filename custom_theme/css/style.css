@@ -298,6 +298,9 @@ p.credits {
 /* tables */
 table {
     border-collapse: collapse;
+		display: block;
+		overflow-x: auto;
+		white-space: nowrap;
 /*     width: 100%; */
     margin: 0.5em 0;
     border: none;
@@ -325,6 +328,11 @@ table tr td:last-child {
 
 tr:nth-child(even) {
 	background-color: #2f3136;
+}
+
+table tbody {
+    display: table;
+    width: 100%;
 }
 
 div.credits-container {
