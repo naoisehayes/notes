@@ -70,7 +70,19 @@ $a^n=y \Leftarrow\Rightarrow log_a(y)=n$
 &nbsp;
 
 \[
-\displaylines{\text{Solve }4^x=\frac{8}{\sqrt2}, x\in\mathbb{Q}\\\\(2^2)^x=\frac{2^3}{2^{\frac{1}{2}}}\\\\2^{2x}=2^{3-\frac{1}{2}}\\\\2x=x\frac{1}{2}\\\\x=\frac{2\frac{1}{2}}{2}\\\\x=1\frac{1}{4}}
+\displaylines{
+\text{Solve }4^x=\frac{8}{\sqrt2}, x\in\mathbb{Q}
+\\\\
+(2^2)^x=\frac{2^3}{2^{\frac{1}{2}}}
+\\\\
+2^{2x}=2^{3-\frac{1}{2}}
+\\\\
+2x=x\frac{1}{2}
+\\\\
+x=\frac{2\frac{1}{2}}{2}
+\\\\
+x=1\frac{1}{4}
+}
 \]
 
 &nbsp;
@@ -80,7 +92,37 @@ $a^n=y \Leftarrow\Rightarrow log_a(y)=n$
 &nbsp;
 
 \[
-\displaylines{\text{Solve the equation: }\\\\3^{2x+1}-28(3x)+9=0\\\\(3^1)(3^{2x})-28(3x)+9=0\\\\3(3^x)^2-28(3^x)+9=0\\\\\text{let }3^x=y\\\\3y^2-28y+9=0\\\\3y^2-27y-1y+9=0\\\\3y(y-9)-1(y-9)=0\\\\(3y-1)(y-9)=0\\\\3y-1=0\quad\text{ or }\quad y-9=0\\\\3y=1\quad\text{ or }\quad y=9\\\\y=\frac{1}{3}\quad\text{ or }\quad y=9\\\\3^x=\frac{1}{3}\quad\text{ or }\quad 3^x=9\\\\\quad\quad\quad\quad\quad\quad\quad3^x=3^2\\\\\quad\quad\quad\quad\quad\quad\quad x=2}
+\displaylines{
+\text{Solve the equation: }
+\\\\
+3^{2x+1}-28(3x)+9=0
+\\\\
+(3^1)(3^{2x})-28(3x)+9=0
+\\\\
+3(3^x)^2-28(3^x)+9=0
+\\\\
+\text{let }3^x=y
+\\\\
+3y^2-28y+9=0
+\\\\
+3y^2-27y-1y+9=0
+\\\\
+3y(y-9)-1(y-9)=0
+\\\\
+(3y-1)(y-9)=0
+\\\\
+3y-1=0 \quad\text{ or }\quad y-9=0
+\\\\
+3y=1 \quad\text{ or }\quad y=9
+\\\\
+y=\frac{1}{3} \quad\text{ or }\quad y=9
+\\\\
+3^x=\frac{1}{3} \quad\text{ or }\quad 3^x=9
+\\\\
+\quad\quad\quad\quad\quad\quad\quad3^x=3^2
+\\\\
+\quad\quad\quad\quad\quad\quad\quad x=2
+}
 \]
 
 &nbsp;
@@ -88,3 +130,100 @@ $a^n=y \Leftarrow\Rightarrow log_a(y)=n$
 ---
 
 &nbsp;
+
+\[
+\displaylines{
+\text{Simplify:}
+\\\\
+\sqrt{50}+\sqrt{8}+\sqrt{32}
+\\\\
+\sqrt{25}\sqrt2+\sqrt4\sqrt2+\sqrt{16}\sqrt2
+\\\\
+5\sqrt2+2\sqrt2+4\sqrt2
+\\\\
+11\sqrt2
+}
+\]
+
+&nbsp;
+
+---
+
+&nbsp;
+
+\[
+\displaylines{
+\text{Simplify: }
+\\\\
+(\sqrt5+2\sqrt2)(\sqrt5-\sqrt2)
+\\\\
+\sqrt5(\sqrt5-\sqrt2)+2\sqrt2(\sqrt5-\sqrt2)
+\\\\
+5-\sqrt{10}+2\sqrt{10}-2(2)
+\\\\
+5+\sqrt{10}-4
+\\\\
+1+\sqrt{10}
+}
+\]
+
+&nbsp;
+
+---
+
+&nbsp;
+
+\[
+\displaylines{
+\text{Rationalise the Denominator: }
+\\\\
+\text{i)}\quad \frac{5}{\sqrt5}
+\\\\
+\frac{5}{\sqrt5}\cdot\frac{\sqrt5}{\sqrt5}
+\\\\
+\frac{5\sqrt5}{5}
+\\\\
+\sqrt5
+\\\\
+\\\\
+\text{ii)}\quad \frac{4\sqrt{15}}{\sqrt{20}}
+\\\\
+\frac{4\sqrt{15}}{\sqrt{20}}\cdot\frac{\sqrt{20}}{\sqrt{20}}
+\\\\
+\frac{4\sqrt{300}}{20}
+\\\\
+\frac{4\sqrt{100}\sqrt{3}}{20}
+\\\\
+\frac{4(10)(\sqrt3)}{20}
+\\\\
+\frac{40\sqrt2}{20}
+\\\\
+2\sqrt3
+\\\\
+\\\\
+\text{iii)}\quad \frac{\sqrt2-\sqrt3}{\sqrt2+\sqrt3}
+\\\\
+\frac{\sqrt2-\sqrt3}{\sqrt2+\sqrt3} \cdot \frac{\sqrt2-\sqrt3}{\sqrt2-\sqrt3}
+\\\\
+\frac{\sqrt2(\sqrt2-\sqrt3)-\sqrt3(\sqrt2-\sqrt3)}{\sqrt2(\sqrt2-\sqrt3)+\sqrt3(\sqrt2-\sqrt3)}
+\\\\
+\frac{2-\sqrt6-\sqrt6+3}{2-\sqrt6+\sqrt6-3}
+\\\\
+\frac{5-2\sqrt6}{-1}
+\\\\
+-5+2\sqrt6
+}
+\]
+
+&nbsp;
+
+---
+
+&nbsp;
+
+\[
+\displaylines{
+\text{ }
+\\\\
+}
+\]
