@@ -223,7 +223,7 @@ y=\frac{1}{3} \quad\text{ or }\quad y=9
 
 \[
 \displaylines{
-\text{ }
+\text{Evaluate: }\quad log_{16}64
 \\\\
 }
 \]
