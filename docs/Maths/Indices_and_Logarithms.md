@@ -295,7 +295,7 @@ $$
 
 $$
 \displaylines{
-\text{solve }\quad log_2(x+1)-log_2(x-1)=1,x\gt1
+\text{Solve }\quad log_2(x+1)-log_2(x-1)=1,x\gt1
 \\\\
 log_2(\frac{x+1}{x-1})=1
 \\\\
@@ -311,4 +311,17 @@ x+1=2x-2
 \\\\
 x=3
 }
+$$      
+
+
+&nbsp;
+
+---
+
+&nbsp;
+
 $$
+\displaylines{
+\text{Solve }\quad	
+}
+$$    
