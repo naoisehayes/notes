@@ -322,6 +322,29 @@ $$
 
 $$
 \displaylines{
-\text{Solve }\quad	
+\text{Solve }\quad	4log_x2=log_2x+3\quad,x>1,x\in\mathbb{R}
+\\\\
+log_x2^4=log_2x+3
+\\\\
+\frac{log_216}{log_2x}=log_2x+3
+\\\\
+\frac{4}{log_2x}=log_2x+3
+\\\\
+\text{Let }\quad log_2x=y
+\\\\
+\frac{4}{y}=y+3
+\\\\
+4=y^2+3y
+\\\\
+y^2+3y-4=0
+\\\\
+(y-1)(y+4)=0
+\\\\
+y=1\quad\text{ or }\quad y=-4
+\\\\
+\\\\
+log_2x=1\quad\text{ or }\quad log_2x=-4
+\\\\
+x=2\quad\quad\text{ or }\quad\quad x=\frac{1}{16}
 }
 $$    
