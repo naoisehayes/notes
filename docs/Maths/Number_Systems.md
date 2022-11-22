@@ -190,7 +190,7 @@ $\therefore |AE|=\frac{1}{2}|AB|=1$
 
 $|AC|=1$ (Construction)
 
-$|AE|^2+|EC|=|AC|^2$
+$|AE|^2+|EC|^2=|AC|^2$
 
 $(\frac{1}{2})^2+|EC|^2=1^2$
 
