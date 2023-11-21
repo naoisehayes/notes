@@ -45,3 +45,17 @@ desxription: Notes- Nuremberg rallies
 - In 1937, the **Rally of Greater Germany** celebrated the Union with Austria (Anchluss) in that year.
 
 - Hitler used the occasion of the rally to put pressure on Czechoslovakia (and also Britain and France) over the Sudetenland. The **Munich Conference* was held shortly after this rally resulting in the transfer of the Sudetenland to Germany.
+
+- The Nazis named the rally in 1939 as the **Rally of Peace** but this was cancelled when the German army invaded Poland.
+
+---
+
+- *Triumph of the Will* showed how the cult of Hitler was promoted. At the beginning, Hitler is seen descending by plane from the clouds as a modern-day saviour coming to save his people.
+
+- Leni Riefensthal was commissioned by Hitler in 1934 to film the Nuremberg rally. Nuremberg became a giant stage with flags, banners, marches and torches.
+
+- Riefensthal used 30 cameramen and over 100 technicians. Triumph of the Will is often regarded as one of the masterpieces of film propaganda.
+
+---
+
+## The Nuremberg Laws
