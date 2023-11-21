@@ -26,6 +26,22 @@ desxription: Notes- Nuremberg rallies
 - These buildings would demonstrate Nazi Power and reflect the glory Hitler planned for Germany.
 
 - The rallies were used to:
-    1. Glorify Hitler
-    2. Spread Nazi ideology
-    3. Mobilse the mass of the German people
+&nbsp;&nbsp;&nbsp;1. Glorify Hitler
+&nbsp;&nbsp;&nbsp;2. Spread Nazi ideology
+&nbsp;&nbsp;&nbsp;3. Mobilse the mass of the German people
+
+- one way of spreding Nazi propaganda was that each rally had a different theme, usually celebrating recent Nazi achievements.
+
+- In 1934, the Nazis celebrated their rise to power in the **Rally of Victory**.
+
+- In 1934, the Nazis emphasised the oneness of Germany in the **Rally of Unity and strength**. Leni Riefensthal filmed *Triumph of the Will* at this rally.
+
+- In 1935, the **Rally of Freedom** celebrated breaking the Treaty of Versailles with the introduction of concription.
+
+- In 1935 the **Nuremberg Laws** against the Jews were passed at a special meeting of the reichstag in the city.
+
+- In 1936, the Nazis celebrated the remilitarisation of the Rhineland in the **Rally of Honour**.
+
+- In 1937, the **Rally of Greater Germany** celebrated the Union with Austria (Anchluss) in that year.
+
+- Hitler used the occasion of the rally to put pressure on Czechoslovakia (and also Britain and France) over the Sudetenland. The **Munich Conference* was held shortly after this rally resulting in the transfer of the Sudetenland to Germany.
