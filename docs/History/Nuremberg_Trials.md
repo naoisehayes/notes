@@ -88,7 +88,15 @@ desxription: Notes- Nuremberg rallies
 - Tasked with ensuring the views of te Nazi party were persuasive.
 
 - Propaganda methods:
-&nbsp;&nbsp;&nbsp;- Posters
-&nbsp;&nbsp;&nbsp;- Radio
-&nbsp;&nbsp;&nbsp;- Film
-&nbsp;&nbsp;&nbsp;- Newspapers
+
+
+&nbsp;&nbsp;&nbsp; - Posters
+
+
+&nbsp;&nbsp;&nbsp; - Radio
+
+
+&nbsp;&nbsp;&nbsp; - Film
+
+
+&nbsp;&nbsp;&nbsp; - Newspapers
