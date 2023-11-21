@@ -27,15 +27,11 @@ desxription: Notes- Nuremberg rallies
 
 - The rallies were used to:
 
-&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;1. Glorify Hitler
 
-&nbsp;&nbsp;&nbsp;
-
 &nbsp;&nbsp;&nbsp;2. Spread Nazi ideology
 
-&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;&nbsp;3. Mobilse the mass of the German people
 
@@ -100,3 +96,29 @@ desxription: Notes- Nuremberg rallies
 
 
 &nbsp;&nbsp;&nbsp; - Newspapers
+
+- Nazi propaganda focused on:
+
+&nbsp;&nbsp;&nbsp; - Anti-semitism
+
+&nbsp;&nbsp;&nbsp; - Militarism
+
+&nbsp;&nbsp;&nbsp; - Supremicy of the aryan race
+
+&nbsp;&nbsp;&nbsp; - Cult of the Fuhrer (Hitler focal point of nation).
+
+&nbsp;&nbsp;&nbsp; - Traditional german 'volks' culture.
+
+- Radio: The peoples reciever, limited range in order to only hear Nazi broadcasts
+
+- All news broadcasts came through the Nazi office of Propaganda.
+
+- Between 1932-1939 the number of families with radios rose from 25% to 70%.
+
+- Gobbels described the radio as "The spiritual weapon of the totalitarian state"
+
+- In 1933, Goebbels organised a book burning to destroy any books with anti-Nazi (un-German) ideas, Jewish editors were fired and ani anti-Nazi newspapers were closed down.
+
+- Goebbels knoew how effective film and cinema were, newsreels were used to boast about Germanys' greatness and the achievements of Hitler.
+
+- In 1936 children were forced to join Nazi youth organisations.
