@@ -26,8 +26,17 @@ desxription: Notes- Nuremberg rallies
 - These buildings would demonstrate Nazi Power and reflect the glory Hitler planned for Germany.
 
 - The rallies were used to:
+
+&nbsp;&nbsp;&nbsp;
+
 &nbsp;&nbsp;&nbsp;1. Glorify Hitler
+
+&nbsp;&nbsp;&nbsp;
+
 &nbsp;&nbsp;&nbsp;2. Spread Nazi ideology
+
+&nbsp;&nbsp;&nbsp;
+
 &nbsp;&nbsp;&nbsp;3. Mobilse the mass of the German people
 
 - one way of spreding Nazi propaganda was that each rally had a different theme, usually celebrating recent Nazi achievements.
