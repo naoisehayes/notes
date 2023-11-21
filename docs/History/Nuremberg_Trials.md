@@ -63,3 +63,23 @@ desxription: Notes- Nuremberg rallies
 - By then Nuremberg became a key symbol for the Nazis, This along with its role as a center of war production led to massive Allied bombing which flattened most of the city.
 
 - After the war, the US Army held a victory parade there and blew up the swastika which was behind the reviewing stand. The trials of the Nazi war criminals were deliberatley held in the city.
+
+---
+
+# Propaganda
+
+- Propaganda is the use of the media to promote one point of view.
+
+- Propaganda is brainwashing the public, convincing them of an idealogical viewpoint.
+
+- Gobbels was the **Minister of Public Enlightenment**.
+
+- He was responsible for runnung the Nazi Propaganda machine.
+
+- Tasked with ensuring the views of te Nazi party were persuasive.
+
+- Propaganda methods:
+&nbsp;&nbsp;&nbsp;- Posters
+&nbsp;&nbsp;&nbsp;- Radio
+&nbsp;&nbsp;&nbsp;- Film
+&nbsp;&nbsp;&nbsp;- Newspapers
