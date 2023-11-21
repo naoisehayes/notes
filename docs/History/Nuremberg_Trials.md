@@ -56,6 +56,10 @@ desxription: Notes- Nuremberg rallies
 
 - Riefensthal used 30 cameramen and over 100 technicians. Triumph of the Will is often regarded as one of the masterpieces of film propaganda.
 
----
+- In 1935, the Reichstag had a meeting in Nuremberg on the last day of the Rally, here it passed the Nuremberg laws against the jews. Jews became second-class citizens.
 
-## The Nuremberg Laws
+- The 1939 Rally had the theme **Rally of Peace** but it was canceled due to the outbreak of the Second World War on September 1st 1939.
+
+- By then Nuremberg became a key symbol for the Nazis, This along with its role as a center of war production led to massive Allied bombing which flattened most of the city.
+
+- After the war, the US Army held a victory parade there and blew up the swastika which was behind the reviewing stand. The trials of the Nazi war criminals were deliberatley held in the city.
