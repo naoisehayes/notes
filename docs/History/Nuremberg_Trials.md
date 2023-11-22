@@ -15,7 +15,7 @@ desxription: Notes- Nuremberg rallies
 
 - Prior to Hitler's coming to power, the rallies were used to show the strength of the Nazi Party and to impress German public opinion.
 
-- It was not until 1933, after Hitler came to power, that the Nuremberg Rallies took on the shape so well kniwn to the world.
+- It was not until 1933, after Hitler came to power, that the Nuremberg Rallies took on the shape so well known to the world.
 
 - Albert Speer was involved in the organisation of the 1933 rally.
 
@@ -37,7 +37,7 @@ desxription: Notes- Nuremberg rallies
 
 - one way of spreding Nazi propaganda was that each rally had a different theme, usually celebrating recent Nazi achievements.
 
-- In 1934, the Nazis celebrated their rise to power in the **Rally of Victory**.
+- In 1933, the Nazis celebrated their rise to power in the **Rally of Victory**.
 
 - In 1934, the Nazis emphasised the oneness of Germany in the **Rally of Unity and strength**. Leni Riefensthal filmed *Triumph of the Will* at this rally.
 
