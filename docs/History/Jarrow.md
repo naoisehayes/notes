@@ -12,7 +12,9 @@ description: History notes- The Jarrow Crusade
 - Over 11,000 people lived and worked in jarrow.&nbsp;
 
 ---
+
 &nbsp;
+
 # Decline
 
 - After WWI Palmers shipyard suffered.&nbsp;
@@ -44,11 +46,12 @@ description: History notes- The Jarrow Crusade
 - Jarrow would petition the government.&nbsp;
 
 ---
+
 &nbsp;
 
 # Organisation of the Crusade
 
-- On the 20th July 1936, Jarrow Borough Council decided to organise a march to petition the government.&nbsp;
+- On the 20th July 1936, Jarrow Borough Council decided to organize a march to petition the government.&nbsp;
 
 - Considerable planning was needed so a March Committee was set up to plan the route.&nbsp;
 
@@ -65,6 +68,7 @@ description: History notes- The Jarrow Crusade
 - It was also named a crusade to reflect the religious background of the area.&nbsp;
 
 ---
+
 &nbsp;
 
 # The Progress of the Crusade
@@ -79,11 +83,12 @@ description: History notes- The Jarrow Crusade
 
 - The leaders presented the case of Jarrow at public meetings in the towns.&nbsp;
 
-- Many people praised the organisation of the march and the conduct pf the men.&nbsp;
+- Many people praised the organization of the march and the conduct pf the men.&nbsp;
 
-- The leaders' speeches followed consistent themes: The causes of Jarrows unemployment problems and a call on the government to provide jobs for the town.&nbsp;
+- The leaders' speeches followed consistent themes: The causes of Jarrow's unemployment problems and a call on the government to provide jobs for the town.&nbsp;
 
 ---
+
 &nbsp;
 
 # London and Home
@@ -101,15 +106,16 @@ description: History notes- The Jarrow Crusade
 - The Assistance Board reduced their unemployment benefit.&nbsp;
 
 ---
+
 &nbsp;
 
 # Assessment
 
 - The Jarrow March or Crusade achieved its first aim of presenting a petition to Parliament.&nbsp;
 
-- In contrast to other similar marches, it didnt alienate the general public.&nbsp;
+- In contrast to other similar marches, it didn't alienate the general public.&nbsp;
 
-- It achieved a certain fame through its organised and orderly manner.&nbsp;
+- It achieved a certain fame through its organized and orderly manner.&nbsp;
 
 - The March failed in its main aim of getting the government to provide jobs for the area. Jarrow's economy improved in the next few years but this had little to do with the crusade.&nbsp;
 
@@ -119,7 +125,7 @@ description: History notes- The Jarrow Crusade
 
 - Along with the other hunger marches, it sparked the conscience of the middle classes.&nbsp;
 
-- Symbolised despair of unemployed men and depressed areas.&nbsp;
+- Symbolized despair of unemployed men and depressed areas.&nbsp;
 
 - 'The Jarrow march is, indeed, a symbol of the feeling of neglect and unmerited poverty and dependence which pervades the distressed areas.'&nbsp;
 

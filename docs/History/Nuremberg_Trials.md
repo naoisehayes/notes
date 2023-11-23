@@ -1,9 +1,9 @@
 title: Nuremberg Rallies
-desxription: Notes- Nuremberg rallies
+description: Notes- Nuremberg rallies
 
 # Nuremberg Rallies
 
-- Mass rallies were an integral part of **Nazi organisation and propaganda**.
+- Mass rallies were an integral part of **Nazi organization and propaganda**.
 
 - Annual party rally held in Nuremberg each August or September.
 
@@ -11,41 +11,39 @@ desxription: Notes- Nuremberg rallies
 
 - The Nazi Party held its first rally in Munich (1923).
 
-- It wasnt until 1927 that the rallies were moved to Nuremberg.
+- It wasn't until 1927 that the rallies were moved to Nuremberg.
 
 - Prior to Hitler's coming to power, the rallies were used to show the strength of the Nazi Party and to impress German public opinion.
 
 - It was not until 1933, after Hitler came to power, that the Nuremberg Rallies took on the shape so well known to the world.
 
-- Albert Speer was involved in the organisation of the 1933 rally.
+- Albert Speer was involved in the organization of the 1933 rally.
 
 - Hitler and Speer wanted to create buildings which would last 1,000 years.
 
-- Hitler believed in Speers theory of '**ruin value**' - that ancient ruins provided proof of the greatness of previous civilisations.
+- Hitler believed in Speers theory of '**ruin value**' - that ancient ruins provided proof of the greatness of previous civilizations.
 
 - These buildings would demonstrate Nazi Power and reflect the glory Hitler planned for Germany.
 
 - The rallies were used to:
 
-
 &nbsp;&nbsp;&nbsp;1. Glorify Hitler
 
 &nbsp;&nbsp;&nbsp;2. Spread Nazi ideology
 
+&nbsp;&nbsp;&nbsp;3. Mobilize the mass of the German people
 
-&nbsp;&nbsp;&nbsp;3. Mobilse the mass of the German people
-
-- one way of spreding Nazi propaganda was that each rally had a different theme, usually celebrating recent Nazi achievements.
+- one way of spreading Nazi propaganda was that each rally had a different theme, usually celebrating recent Nazi achievements.
 
 - In 1933, the Nazis celebrated their rise to power in the **Rally of Victory**.
 
-- In 1934, the Nazis emphasised the oneness of Germany in the **Rally of Unity and strength**. Leni Riefensthal filmed *Triumph of the Will* at this rally.
+- In 1934, the Nazis emphasized the oneness of Germany in the **Rally of Unity and strength**. Leni Riefensthal filmed *Triumph of the Will* at this rally.
 
-- In 1935, the **Rally of Freedom** celebrated breaking the Treaty of Versailles with the introduction of concription.
+- In 1935, the **Rally of Freedom** celebrated breaking the Treaty of Versailles with the introduction of conscription.
 
 - In 1935 the **Nuremberg Laws** against the Jews were passed at a special meeting of the reichstag in the city.
 
-- In 1936, the Nazis celebrated the remilitarisation of the Rhineland in the **Rally of Honour**.
+- In 1936, the Nazis celebrated the remilitarization of the Rhineland in the **Rally of Honor**.
 
 - In 1937, the **Rally of Greater Germany** celebrated the Union with Austria (Anchluss) in that year.
 
@@ -55,7 +53,7 @@ desxription: Notes- Nuremberg rallies
 
 ---
 
-- *Triumph of the Will* showed how the cult of Hitler was promoted. At the beginning, Hitler is seen descending by plane from the clouds as a modern-day saviour coming to save his people.
+- *Triumph of the Will* showed how the cult of Hitler was promoted. At the beginning, Hitler is seen descending by plane from the clouds as a modern-day savior coming to save his people.
 
 - Leni Riefensthal was commissioned by Hitler in 1934 to film the Nuremberg rally. Nuremberg became a giant stage with flags, banners, marches and torches.
 
@@ -67,7 +65,7 @@ desxription: Notes- Nuremberg rallies
 
 - By then Nuremberg became a key symbol for the Nazis, This along with its role as a center of war production led to massive Allied bombing which flattened most of the city.
 
-- After the war, the US Army held a victory parade there and blew up the swastika which was behind the reviewing stand. The trials of the Nazi war criminals were deliberatley held in the city.
+- After the war, the US Army held a victory parade there and blew up the swastika which was behind the reviewing stand. The trials of the Nazi war criminals were deliberately held in the city.
 
 ---
 
@@ -79,21 +77,17 @@ desxription: Notes- Nuremberg rallies
 
 - Gobbels was the **Minister of Public Enlightenment**.
 
-- He was responsible for runnung the Nazi Propaganda machine.
+- He was responsible for running the Nazi Propaganda machine.
 
-- Tasked with ensuring the views of te Nazi party were persuasive.
+- Tasked with ensuring the views of the Nazi party were persuasive.
 
 - Propaganda methods:
 
-
 &nbsp;&nbsp;&nbsp; - Posters
-
 
 &nbsp;&nbsp;&nbsp; - Radio
 
-
 &nbsp;&nbsp;&nbsp; - Film
-
 
 &nbsp;&nbsp;&nbsp; - Newspapers
 
@@ -103,13 +97,13 @@ desxription: Notes- Nuremberg rallies
 
 &nbsp;&nbsp;&nbsp; - Militarism
 
-&nbsp;&nbsp;&nbsp; - Supremicy of the aryan race
+&nbsp;&nbsp;&nbsp; - Supremacy of the aryan race
 
 &nbsp;&nbsp;&nbsp; - Cult of the Fuhrer (Hitler focal point of nation).
 
 &nbsp;&nbsp;&nbsp; - Traditional german 'volks' culture.
 
-- Radio: The peoples reciever, limited range in order to only hear Nazi broadcasts
+- Radio: The peoples receiver, limited range in order to only hear Nazi broadcasts
 
 - All news broadcasts came through the Nazi office of Propaganda.
 
@@ -117,8 +111,8 @@ desxription: Notes- Nuremberg rallies
 
 - Gobbels described the radio as "The spiritual weapon of the totalitarian state"
 
-- In 1933, Goebbels organised a book burning to destroy any books with anti-Nazi (un-German) ideas, Jewish editors were fired and ani anti-Nazi newspapers were closed down.
+- In 1933, Goebbels organized a book burning to destroy any books with anti-Nazi (un-German) ideas, Jewish editors were fired and ani anti-Nazi newspapers were closed down.
 
-- Goebbels knoew how effective film and cinema were, newsreels were used to boast about Germanys' greatness and the achievements of Hitler.
+- Goebbels knew how effective film and cinema were, newsreels were used to boast about Germanys' greatness and the achievements of Hitler.
 
-- In 1936 children were forced to join Nazi youth organisations.
+- In 1936 children were forced to join Nazi youth organizations.
