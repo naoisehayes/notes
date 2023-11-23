@@ -14,11 +14,13 @@ description: History Notes- Stalin
 - Cleansed army and part in readiness for war.&nbsp;
 
 ---
+
 &nbsp;
+
 # Show Trials
 
 - Enemies:
-Trotsky, Kamenev, Zinoviev.&nbsp;
+  Trotsky, Kamenev, Zinoviev.&nbsp;
 
 - Trotsky escaped, many saw him as a hero and wanted his return.&nbsp;
 
@@ -68,7 +70,9 @@ Trotsky, Kamenev, Zinoviev.&nbsp;
 - Many foreign observers believed the trials were legal and that there was a conspiracy against the soviet union.&nbsp;
 
 ---
+
 &nbsp;
+
 # The Purges
 
 - By 1938, 1 in 8 citizens has been arrested at some point in the purges. &nbsp;
