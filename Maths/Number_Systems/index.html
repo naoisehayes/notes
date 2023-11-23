@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html>
+    <head>
+          <meta charset="utf-8">
+          <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+          <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0">
+	  
+          <title>Number Systems - Notes</title>
+	  
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
+          <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.css">
+
+          <link rel="stylesheet" href="../../css/style.css">
+          <link rel="stylesheet" href="/css/hljs.css">
+          <script src="/js/highlight.min.js"></script>
+          <script>hljs.highlightAll();</script>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.js"></script>
+
+        <script>
+    MathJax = {
+        chtml: { displayAlign: 'left' }
+    };
+    </script>
+
+        <script src="/js/tocscroll.js"></script>
+        <!--        <script src="/js/clearinput.js"></script> -->
+        <script src="/js/dark.js"></script>
+        <script src="/js/nav.js"></script>
+
+        <!--  for embeds -->
+        <meta name="theme-color" content="#5468ff">
+
+	
+          <meta name="description" content="Notes- Number Systems">
+
+          <meta property="og:title" content="Number Systems" />
+          <meta property="og:image" content="" />
+          <meta property="og:site_name" content="Notes" />
+          <meta property="og:description" content="Notes- Number Systems" />
+	
+    <!-- end meta tags -->
+
+    </head>
+    <body>
+
+        <main>
+        <button id="sidebar-toggle" onclick="closeOrOpen()">
+		<img src="/pix/menu_icon.svg">
+        </button>
+
+        <aside class="sidebar" id="sidebar">
+					<!-- Main navigation -->
+					<ul id="navigation">
+							<li id="">
+								<a href="../.." >Welcome to Notes!</a>
+								
+							</li>
+							<li id="">
+								<p class="navtitle">Geography</p>
+
+								<ul>
+									
+	<li >
+			<a class="navtitle"  href="../../Geography/Levees-essay/">levees - Essay</a>
+		
+	</li>
+									
+	<li >
+			<a class="navtitle"  href="../../Geography/Waterfalls%20-%20Essay/">Waterfalls - Essay</a>
+		
+	</li>
+								</ul>
+							</li>
+							<li id="">
+								<p class="navtitle">History</p>
+
+								<ul>
+									
+	<li >
+			<a class="navtitle"  href="../../History/Jarrow/">The Jarrow Crusade (March-October 1936)</a>
+		
+	</li>
+									
+	<li >
+			<a class="navtitle"  href="../../History/Nuremberg_Trials/">Nuremberg Rallies</a>
+		
+	</li>
+									
+	<li >
+			<a class="navtitle"  href="../../History/Stalin/">Stalin (1928-1953)</a>
+		
+	</li>
+									
+	<li >
+			<a class="navtitle"  href="../../History/Treaty-civilwar/">Treaty to Civil War</a>
+		
+	</li>
+								</ul>
+							</li>
+							<li id="current">
+								<p class="navtitle">Maths</p>
+
+								<ul>
+									
+	<li >
+			<a class="navtitle"  href="../Indices_and_Logarithms/">Indices and Logarithms</a>
+		
+	</li>
+									
+	<li id="current">
+			<a class="navtitle" onclick="collapseCurrent()" ><img src="/pix/expand_more.svg" id="expand_icon">Number Systems</a>
+		        <nav id="tocnav">
+            <div class="container">
+                <ul class="toc">
+                    
+                        <li><a href="#natural-numbers-mathbbn">Natural Numbers (\(\mathbb{N}\))</a></li>
+                        
+                            <li><a href="#examples-of-hcf-and-lcm">Examples of HCF and LCM</a></li>
+                        
+                    
+                        <li><a href="#integers-mathbbz">Integers (\(\mathbb{z}\))</a></li>
+                        
+                    
+                        <li><a href="#rational-numbers-mathbbq">Rational Numbers (\(\mathbb{Q}\))</a></li>
+                        
+                    
+                        <li><a href="#real-numbers-mathbbr">Real Numbers (\(\mathbb{R}\))</a></li>
+                        
+                    
+                        <li><a href="#irrational-numbers-mathbbrmathbbq-or-mathbbi">Irrational Numbers (\(\mathbb{R}/\mathbb{Q}\)) or (\(\mathbb{I}\))</a></li>
+                        
+                    
+                        <li><a href="#proof-that-sqrt2-is-irrational-proof-by-contradiction">Proof that \(\sqrt2\) is irrational (Proof by Contradiction)</a></li>
+                        
+                    
+                        <li><a href="#construct-sqrt2">Construct \(\sqrt2\)</a></li>
+                        
+                    
+                        <li><a href="#construct-sqrt3">Construct \(\sqrt3\)</a></li>
+                        
+                    
+                        <li><a href="#rounding-and-significant-figures">Rounding and Significant Figures</a></li>
+                        
+                    
+                </ul>
+            </div>
+        </nav>
+	</li>
+								</ul>
+							</li>
+					</ul>
+
+
+        <h1 class="site-name"><a class="home-link" href="/">Notes</a></h1>
+
+        <div class="credits-container">
+        <p class="credits"><a href="https://github.com/naoisehayes/notes" target="_blank">GitHub</a>
+		<p class="credits"><b>Site Theme by Naoise</b></p>
+        </div>
+
+        </aside>
+        <section id="content" class="normal">
+            <div class="article-info-container">
+		
+                  <h1 class="article-title">Number Systems</h1>
+		
+                
+                
+            </div>
+                <h1 id="natural-numbers-mathbbn">Natural Numbers (<span class="arithmatex">\(\mathbb{N}\)</span>)</h1>
+<p>&nbsp;</p>
+<ul>
+<li>Set of all positive and whole numbers excluding <span class="arithmatex">\(0\)</span>&nbsp;</li>
+</ul>
+<p>e.g. - {<span class="arithmatex">\({1,2,3,4 ...}\)</span>}</p>
+<ul>
+<li>
+<p>Prime numbers are natural numbers that have exactly two factors.</p>
+</li>
+<li>
+<p><span class="arithmatex">\(1\)</span> is not a prime number.</p>
+</li>
+<li>
+<p><span class="arithmatex">\(2\)</span> is the only even prime number.</p>
+</li>
+<li>
+<p>Composite numbers are natural numbers greater than <span class="arithmatex">\(1\)</span> which are not prime.</p>
+</li>
+<li>
+<p>Every natural number greater than <span class="arithmatex">\(1\)</span> is either a prime or can be written as a unique product of primes.</p>
+</li>
+<li>
+<p>Factor or divisor of a natural number is any number that divides exactly into it.</p>
+</li>
+<li>
+<p>Multiples of a natural number are the numbers of which it divides into exactly.</p>
+</li>
+<li>
+<p>Highest Common Factor (HCF) of two or more natural numbers is the highest number that divides exactly into both given number.</p>
+</li>
+<li>
+<p>Lowest Common Multiple (LCM) of two or more numbers is the smallest multiple that the given number has in common.</p>
+</li>
+</ul>
+<hr />
+<h3 id="examples-of-hcf-and-lcm">Examples of HCF and LCM</h3>
+<p><span class="arithmatex">\(\text{e.g. 1 - Express 240 as a product of primes.}\)</span></p>
+<pre><code>              240
+              / \
+           (2)  120
+                / \
+              (2) 60
+                  / \
+                (2) 30
+                    / \
+                  (2) 15
+                      / \
+                    (3) (5)
+</code></pre>
+<p><span class="arithmatex">\(240 = 2\times2\times2\times2\times3\times5\)</span></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="arithmatex">\(=2^4\times3\times5\)</span></p>
+<hr />
+<p><span class="arithmatex">\(\text{e.g. 2 - Find (i) the HCF and (ii) the LCM of 512 and 280.}\)</span></p>
+<p><span class="arithmatex">\(512={2}\times{2}\times{2}\times2\times2\times2\times2\times2\times2\)</span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span class="arithmatex">\(280={2}\times{2}\times{2}\times5\times7\)</span></p>
+<p><span class="arithmatex">\(512=2^9\)</span></p>
+<p><span class="arithmatex">\(\text{HCF}=2^3=8\)</span></p>
+<p><span class="arithmatex">\(\text{LCM}=2^3\times2^6\times5\times7=17920\)</span></p>
+<hr />
+<p>&nbsp;</p>
+<h1 id="integers-mathbbz">Integers (<span class="arithmatex">\(\mathbb{z}\)</span>)</h1>
+<p>&nbsp;</p>
+<ul>
+<li>Set of all whole numbers, positive, negative and <span class="arithmatex">\(0\)</span>.</li>
+</ul>
+<p>e.g. - {<span class="arithmatex">\({... -3,-2,-1,0,1,2,3 ...}\)</span>}</p>
+<p>&nbsp;</p>
+<p>If <span class="arithmatex">\(a,b,c\)</span> are integers:</p>
+<ul>
+<li>
+<p><span class="arithmatex">\(a+b\)</span> and <span class="arithmatex">\(a \times b\)</span> are integers</p>
+</li>
+<li>
+<p>Commutative property: <span class="arithmatex">\((a+b) = (b+a)\)</span> and <span class="arithmatex">\(ab=ba\)</span></p>
+</li>
+<li>
+<p>Associative property: <span class="arithmatex">\((a+b)+c=a+(b+c)\)</span> and <span class="arithmatex">\((ab)c=a(bc)\)</span></p>
+</li>
+<li>
+<p>Distributive property: <span class="arithmatex">\(a(b+c)=ab+ac\)</span></p>
+</li>
+</ul>
+<hr />
+<p>&nbsp;</p>
+<h1 id="rational-numbers-mathbbq">Rational Numbers (<span class="arithmatex">\(\mathbb{Q}\)</span>)</h1>
+<p>&nbsp;</p>
+<ul>
+<li>
+<p>Set of numbers that can be written as a ratio of two integers <span class="arithmatex">\({p}\over{q}\)</span> where <span class="arithmatex">\(p,q\in\mathbb{z},q\neq0\)</span></p>
+</li>
+<li>
+<p>A rational number will have a decimal expansion that is either terminating or recurring.</p>
+</li>
+<li>
+<p>Any fraction whose denominator's prime factors are not only <span class="arithmatex">\(2\)</span> and/or <span class="arithmatex">\(5\)</span> is a recurring decimal.</p>
+</li>
+<li>
+<p>if <span class="arithmatex">\({p}\over{q}\)</span> is a rational number, and <span class="arithmatex">\(p\neq0\)</span>, then <span class="arithmatex">\({q}\over{p}\)</span> is its reciprocal.</p>
+</li>
+</ul>
+<hr />
+<p>&nbsp;</p>
+<h1 id="real-numbers-mathbbr">Real Numbers (<span class="arithmatex">\(\mathbb{R}\)</span>)</h1>
+<p>&nbsp;</p>
+<ul>
+<li>The set of real numbers is the set of all rational and irrational numbers.</li>
+</ul>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<h1 id="irrational-numbers-mathbbrmathbbq-or-mathbbi">Irrational Numbers (<span class="arithmatex">\(\mathbb{R}/\mathbb{Q}\)</span>) or (<span class="arithmatex">\(\mathbb{I}\)</span>)</h1>
+<p>&nbsp;</p>
+<ul>
+<li>
+<p>Set of numbers that cannot be expressed as a ratio of two integers <span class="arithmatex">\({p}\over{q}\)</span> where <span class="arithmatex">\(p,q\in\mathbb{z},q\neq0\)</span></p>
+</li>
+<li>
+<p>A surd (<span class="arithmatex">\(\sqrt{xyz}\)</span>) is an irrational number containing a root term, i.e. <span class="arithmatex">\(\sqrt{2}=1.414213562....\)</span>, this number will continue indefinitely and has no pattern.</p>
+</li>
+<li>
+<p><span class="arithmatex">\(\pi\)</span> and <span class="arithmatex">\(e\)</span> are two more examples of irrational numbers.</p>
+</li>
+</ul>
+<p>Note: <span class="arithmatex">\(\mathbb{N}\subset\mathbb{Z}\subset\mathbb{Q}\subset\mathbb{R}\)</span></p>
+<hr />
+<p>&nbsp;</p>
+<h1 id="proof-that-sqrt2-is-irrational-proof-by-contradiction">Proof that <span class="arithmatex">\(\sqrt2\)</span> is irrational (Proof by Contradiction)</h1>
+<p>We will use proof by contradiction to prove: <span class="arithmatex">\(\sqrt2\)</span> is irrational.</p>
+<p>Proof: Assume that <span class="arithmatex">\(\sqrt2\)</span> is rational and can therefore be written in the form of <span class="arithmatex">\({p}\over{q}\)</span> where <span class="arithmatex">\(p\)</span> and <span class="arithmatex">\(q\)</span> have no common factors.</p>
+<p><span class="arithmatex">\(\sqrt2 = \frac{p}{q} \Rightarrow 2 = \frac{p^2}{q^2}\)</span></p>
+<p><span class="arithmatex">\(\therefore p^2 = 2q^2\)</span></p>
+<p><span class="arithmatex">\(\text{let }p=2k\)</span></p>
+<p><span class="arithmatex">\(\Rightarrow p^2=4k^2\)</span></p>
+<p><span class="arithmatex">\(p^2=2q^2\text{ and }p^2=4k^2\)</span></p>
+<p><span class="arithmatex">\(\Rightarrow 2q^2=4k^2\)</span></p>
+<p><span class="arithmatex">\(\Rightarrow q^2=2k^2\)</span></p>
+<p><span class="arithmatex">\(2\)</span> is a factor of <span class="arithmatex">\(q^2\)</span>, so <span class="arithmatex">\(2\)</span> is also a factor of <span class="arithmatex">\(q\)</span></p>
+<p>Therefore <span class="arithmatex">\(2\)</span> is a common factor of <span class="arithmatex">\(p\)</span> and <span class="arithmatex">\(q\)</span>, this contradicts the original assumption. Thus <span class="arithmatex">\(\sqrt2\)</span> is an irrational number.</p>
+<hr />
+<p>&nbsp;</p>
+<h1 id="construct-sqrt2">Construct <span class="arithmatex">\(\sqrt2\)</span></h1>
+<p><img alt="" src="https://ptpimg.me/1d4t4q.jpg" /></p>
+<p>&nbsp;</p>
+<p>Proof:</p>
+<p><span class="arithmatex">\(|ab|=|bc|=1\)</span>    (radii of circle)</p>
+<p><span class="arithmatex">\(|ab|^2+|bc|^2=|ac|^2\)</span></p>
+<p><span class="arithmatex">\(1^2+1^2=|ac|^2\)</span></p>
+<p><span class="arithmatex">\(2=|ac|^2\)</span></p>
+<p><span class="arithmatex">\(\sqrt2=|ac|\)</span></p>
+<hr />
+<p>&nbsp;</p>
+<h1 id="construct-sqrt3">Construct <span class="arithmatex">\(\sqrt3\)</span></h1>
+<p>&nbsp;</p>
+<p><img alt="" src="https://ptpimg.me/x425hb.jpg" /></p>
+<p>&nbsp;</p>
+<p>Proof:</p>
+<p><span class="arithmatex">\([CD]\)</span> and <span class="arithmatex">\([AB]\)</span> are perpendicular bisectors of each other.</p>
+<p><span class="arithmatex">\(\therefore |AE|=\frac{1}{2}|AB|=1\)</span></p>
+<p><span class="arithmatex">\(|AC|=1\)</span> (Construction)</p>
+<p><span class="arithmatex">\(|AE|^2+|EC|^2=|AC|^2\)</span></p>
+<p><span class="arithmatex">\((\frac{1}{2})^2+|EC|^2=1^2\)</span></p>
+<p><span class="arithmatex">\(|EC|^2=1-\frac{1}{4}=\frac{3}{4}\)</span></p>
+<p><span class="arithmatex">\(\therefore |EC|=\sqrt\frac{3}{4}=\frac{\sqrt3}{2}\)</span></p>
+<p><span class="arithmatex">\(|CD|=2|EC|=2(\frac{\sqrt3}{2})\)</span></p>
+<p><span class="arithmatex">\(\therefore|CD|=\sqrt3\)</span></p>
+<hr />
+<p>&nbsp;</p>
+<h1 id="rounding-and-significant-figures">Rounding and Significant Figures</h1>
+<p>&nbsp;</p>
+<p>E.G. Write the following correct to one decimal place.</p>
+<p>i) <span class="arithmatex">\(2.57\)</span></p>
+<p>ans <span class="arithmatex">\(=2.6\)</span></p>
+<p>ii) <span class="arithmatex">\(39.32\)</span></p>
+<p>ans <span class="arithmatex">\(=39.3\)</span></p>
+<hr />
+<p>E.G. Write the following numbers to two significant figures:</p>
+<p>i) <span class="arithmatex">\(3.67765\)</span></p>
+<p>ans <span class="arithmatex">\(=3.7\)</span></p>
+<p>ii) <span class="arithmatex">\(61,343\)</span></p>
+<p>ans <span class="arithmatex">\(=61000\)</span></p>
+<p>iii) <span class="arithmatex">\(0.00356\)</span></p>
+<p>ans <span class="arithmatex">\(=0.0036\)</span></p>
+<hr />
+<p>E.G. Write the following numbers in scientific notation:</p>
+<p>i) <span class="arithmatex">\(725,000,000,000\)</span></p>
+<p>ans <span class="arithmatex">\(=7.25\times10^{11}\)</span></p>
+<p>ii) <span class="arithmatex">\(980,000\)</span></p>
+<p>ans <span class="arithmatex">\(=9.8\times10^{5}\)</span></p>
+<p>iii) <span class="arithmatex">\(0.0000056\)</span></p>
+<p>ans <span class="arithmatex">\(=5.6\times10^{-6}\)</span></p>
+<hr />
+
+
+    </section>
+
+        </main>
+    <a id="darkmodetoggle" onclick="switchTheme()"><img src="/pix/dark_mode.svg"></a>
+    </body>
+</html>

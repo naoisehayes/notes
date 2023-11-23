@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+    <head>
+          <meta charset="utf-8">
+          <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+          <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0">
+	  
+          <title>Welcome to Notes! - Notes</title>
+	  
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
+          <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.css">
+
+          <link rel="stylesheet" href="css/style.css">
+          <link rel="stylesheet" href="/css/hljs.css">
+          <script src="/js/highlight.min.js"></script>
+          <script>hljs.highlightAll();</script>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.js"></script>
+
+        <script>
+    MathJax = {
+        chtml: { displayAlign: 'left' }
+    };
+    </script>
+
+        <script src="/js/tocscroll.js"></script>
+        <!--        <script src="/js/clearinput.js"></script> -->
+        <script src="/js/dark.js"></script>
+        <script src="/js/nav.js"></script>
+
+        <!--  for embeds -->
+        <meta name="theme-color" content="#5468ff">
+
+	
+          <meta name="description" content="This site is a digital backup for my notes copies for 5th and 6th year.">
+
+          <meta property="og:title" content="Welcome to Notes!" />
+          <meta property="og:image" content="" />
+          <meta property="og:site_name" content="Notes" />
+          <meta property="og:description" content="This site is a digital backup for my notes copies for 5th and 6th year." />
+	
+    <!-- end meta tags -->
+
+    </head>
+    <body>
+
+        <main>
+        <button id="sidebar-toggle" onclick="closeOrOpen()">
+		<img src="/pix/menu_icon.svg">
+        </button>
+
+        <aside class="sidebar" id="sidebar">
+					<!-- Main navigation -->
+					<ul id="navigation">
+							<li id="current">
+								<a  onclick="collapseCurrent()"><img src="/pix/expand_more.svg" id="expand_icon">Welcome to Notes!</a>
+								        <nav id="tocnav">
+            <div class="container">
+                <ul class="toc">
+                    
+                        <li><a href="#what-is-this">What is this?</a></li>
+                        
+                    
+                        <li><a href="#can-you-upload-notes-on-x-y-or-z">Can you upload notes on X, Y or Z?</a></li>
+                        
+                            <li><a href="#use-the-sidebar-to-navigate">Use the sidebar to navigate!</a></li>
+                        
+                    
+                </ul>
+            </div>
+        </nav>
+							</li>
+							<li id="">
+								<p class="navtitle">Geography</p>
+
+								<ul>
+									
+	<li >
+			<a class="navtitle"  href="Geography/Levees-essay/">levees - Essay</a>
+		
+	</li>
+									
+	<li >
+			<a class="navtitle"  href="Geography/Waterfalls%20-%20Essay/">Waterfalls - Essay</a>
+		
+	</li>
+								</ul>
+							</li>
+							<li id="">
+								<p class="navtitle">History</p>
+
+								<ul>
+									
+	<li >
+			<a class="navtitle"  href="History/Jarrow/">The Jarrow Crusade (March-October 1936)</a>
+		
+	</li>
+									
+	<li >
+			<a class="navtitle"  href="History/Nuremberg_Trials/">Nuremberg Rallies</a>
+		
+	</li>
+									
+	<li >
+			<a class="navtitle"  href="History/Stalin/">Stalin (1928-1953)</a>
+		
+	</li>
+									
+	<li >
+			<a class="navtitle"  href="History/Treaty-civilwar/">Treaty to Civil War</a>
+		
+	</li>
+								</ul>
+							</li>
+							<li id="">
+								<p class="navtitle">Maths</p>
+
+								<ul>
+									
+	<li >
+			<a class="navtitle"  href="Maths/Indices_and_Logarithms/">Indices and Logarithms</a>
+		
+	</li>
+									
+	<li >
+			<a class="navtitle"  href="Maths/Number_Systems/">Number Systems</a>
+		
+	</li>
+								</ul>
+							</li>
+					</ul>
+
+
+        <h1 class="site-name"><a class="home-link" href="/">Notes</a></h1>
+
+        <div class="credits-container">
+        <p class="credits"><a href="https://github.com/naoisehayes/notes" target="_blank">GitHub</a>
+		<p class="credits"><b>Site Theme by Naoise</b></p>
+        </div>
+
+        </aside>
+        <section id="content" class="normal">
+            <div class="article-info-container">
+		
+                  <h1 class="article-title">Welcome to Notes!</h1>
+		
+                
+                
+            </div>
+                <h1 id="what-is-this">What is this?</h1>
+<p>This is a digitized collection of notes taken from some of my classes for convenience.</p>
+<h1 id="can-you-upload-notes-on-x-y-or-z">Can you upload notes on <em>X, Y or Z</em>?</h1>
+<p>If you send a photo of handwritten notes i can upload them here.</p>
+<h2 id="use-the-sidebar-to-navigate">Use the sidebar to navigate!</h2>
+
+
+    </section>
+
+        </main>
+    <a id="darkmodetoggle" onclick="switchTheme()"><img src="/pix/dark_mode.svg"></a>
+    </body>
+</html>

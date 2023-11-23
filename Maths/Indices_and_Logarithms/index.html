@@ -1,0 +1,565 @@
+<!DOCTYPE html>
+<html>
+    <head>
+          <meta charset="utf-8">
+          <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+          <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0">
+	  
+          <title>Indices and Logarithms - Notes</title>
+	  
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
+          <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.css">
+
+          <link rel="stylesheet" href="../../css/style.css">
+          <link rel="stylesheet" href="/css/hljs.css">
+          <script src="/js/highlight.min.js"></script>
+          <script>hljs.highlightAll();</script>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.9.0/katex.min.js"></script>
+
+        <script>
+    MathJax = {
+        chtml: { displayAlign: 'left' }
+    };
+    </script>
+
+        <script src="/js/tocscroll.js"></script>
+        <!--        <script src="/js/clearinput.js"></script> -->
+        <script src="/js/dark.js"></script>
+        <script src="/js/nav.js"></script>
+
+        <!--  for embeds -->
+        <meta name="theme-color" content="#5468ff">
+
+	
+          <meta name="description" content="Notes- Indices and Logarithms">
+
+          <meta property="og:title" content="Indices and Logarithms" />
+          <meta property="og:image" content="" />
+          <meta property="og:site_name" content="Notes" />
+          <meta property="og:description" content="Notes- Indices and Logarithms" />
+	
+    <!-- end meta tags -->
+
+    </head>
+    <body>
+
+        <main>
+        <button id="sidebar-toggle" onclick="closeOrOpen()">
+		<img src="/pix/menu_icon.svg">
+        </button>
+
+        <aside class="sidebar" id="sidebar">
+					<!-- Main navigation -->
+					<ul id="navigation">
+							<li id="">
+								<a href="../.." >Welcome to Notes!</a>
+								
+							</li>
+							<li id="">
+								<p class="navtitle">Geography</p>
+
+								<ul>
+									
+	<li >
+			<a class="navtitle"  href="../../Geography/Levees-essay/">levees - Essay</a>
+		
+	</li>
+									
+	<li >
+			<a class="navtitle"  href="../../Geography/Waterfalls%20-%20Essay/">Waterfalls - Essay</a>
+		
+	</li>
+								</ul>
+							</li>
+							<li id="">
+								<p class="navtitle">History</p>
+
+								<ul>
+									
+	<li >
+			<a class="navtitle"  href="../../History/Jarrow/">The Jarrow Crusade (March-October 1936)</a>
+		
+	</li>
+									
+	<li >
+			<a class="navtitle"  href="../../History/Nuremberg_Trials/">Nuremberg Rallies</a>
+		
+	</li>
+									
+	<li >
+			<a class="navtitle"  href="../../History/Stalin/">Stalin (1928-1953)</a>
+		
+	</li>
+									
+	<li >
+			<a class="navtitle"  href="../../History/Treaty-civilwar/">Treaty to Civil War</a>
+		
+	</li>
+								</ul>
+							</li>
+							<li id="current">
+								<p class="navtitle">Maths</p>
+
+								<ul>
+									
+	<li id="current">
+			<a class="navtitle" onclick="collapseCurrent()" ><img src="/pix/expand_more.svg" id="expand_icon">Indices and Logarithms</a>
+		        <nav id="tocnav">
+            <div class="container">
+                <ul class="toc">
+                    
+                        <li><a href="#laws-of-indices">Laws of Indices</a></li>
+                        
+                    
+                        <li><a href="#laws-of-surds">Laws of Surds</a></li>
+                        
+                    
+                        <li><a href="#logarithms">Logarithms</a></li>
+                        
+                    
+                        <li><a href="#examples">Examples</a></li>
+                        
+                    
+                </ul>
+            </div>
+        </nav>
+	</li>
+									
+	<li >
+			<a class="navtitle"  href="../Number_Systems/">Number Systems</a>
+		
+	</li>
+								</ul>
+							</li>
+					</ul>
+
+
+        <h1 class="site-name"><a class="home-link" href="/">Notes</a></h1>
+
+        <div class="credits-container">
+        <p class="credits"><a href="https://github.com/naoisehayes/notes" target="_blank">GitHub</a>
+		<p class="credits"><b>Site Theme by Naoise</b></p>
+        </div>
+
+        </aside>
+        <section id="content" class="normal">
+            <div class="article-info-container">
+		
+                  <h1 class="article-title">Indices and Logarithms</h1>
+		
+                
+                
+            </div>
+                <h1 id="laws-of-indices">Laws of Indices</h1>
+<p>&nbsp;</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Law 1</td>
+<td style="text-align: left;"><span class="arithmatex">\(a^p\times a^q=a^{p+q}\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\(3^2\times3^4=3^6\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 2</td>
+<td style="text-align: left;"><span class="arithmatex">\(\frac{a^p}{a^q}=a^{p-q}\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\(\frac{7^6}{7^3}=7^3\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 3</td>
+<td style="text-align: left;"><span class="arithmatex">\((a^p)^q=a^{pq}\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\((4^2)^3=4^6\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 4</td>
+<td style="text-align: left;"><span class="arithmatex">\(a^0=1\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\(6^0=1\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 5</td>
+<td style="text-align: left;"><span class="arithmatex">\(a^{\frac{1}{q}}=(\sqrt[q]{a})^p\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\(27^{\frac{1}{3}}=\sqrt[3]{27}=3\)</span> <span class="arithmatex">\(\quad\quad\quad[\sqrt{a}=a^\frac{1}{2}]\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 6</td>
+<td style="text-align: left;"><span class="arithmatex">\(a^\frac{p}{q}=(\sqrt[q]{a})^p\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\(4^\frac{3}{2}=(\sqrt[2]{4})^3=8\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 7</td>
+<td style="text-align: left;"><span class="arithmatex">\(a^{-p}=\frac{1}{a^p}\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\(3^{-2}=\frac{1}{3^2}=\frac{1}{9}\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 8</td>
+<td style="text-align: left;"><span class="arithmatex">\((ab)^p=(a^p)(b^p)\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\((2x)^6=(2)^6(x)^6\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 9</td>
+<td style="text-align: left;"><span class="arithmatex">\((\frac{a}{b})^p=\frac{a^p}{b^p}\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\(((\frac{4}{3})^5=\frac{4^5}{3^5}\)</span></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p>&nbsp;</p>
+<h1 id="laws-of-surds">Laws of Surds</h1>
+<p>&nbsp;</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Law 1</td>
+<td style="text-align: left;"><span class="arithmatex">\(\sqrt{a} \sqrt{b}=\sqrt{ab}\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 2</td>
+<td style="text-align: left;"><span class="arithmatex">\(\frac{\sqrt{a}}{\sqrt{b}}=\sqrt{\frac{a}{b}}\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 3</td>
+<td style="text-align: left;"><span class="arithmatex">\(\sqrt{a^2}=a\)</span></td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p>&nbsp;</p>
+<h1 id="logarithms">Logarithms</h1>
+<ul>
+<li>
+<p>Logarithms and indices are closely linked.</p>
+</li>
+<li>
+<p>Raising a base to a power and finding the logarithm to the base are inverse operations</p>
+</li>
+</ul>
+<p><span class="arithmatex">\(2^3=8 \Leftarrow\Rightarrow log_2(8)=3\)</span></p>
+<p><span class="arithmatex">\(a^n=y \Leftarrow\Rightarrow log_a(y)=n\)</span></p>
+<p>&nbsp;</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"></th>
+<th style="text-align: left;"></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Law 1</td>
+<td style="text-align: left;"><span class="arithmatex">\(log_a(xy)=log_a(x)+log_a(y)\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\(log_24+log_28=log_232\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 2</td>
+<td style="text-align: left;"><span class="arithmatex">\(log_a(\frac{x}{y})=log_ax-log_ay\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\(log_416-log_44=log_44\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 3</td>
+<td style="text-align: left;"><span class="arithmatex">\(log_ax^q=qlog_ax\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\(log_55^3=3log_55\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 4</td>
+<td style="text-align: left;"><span class="arithmatex">\(log_a1=0\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\(log_21=0\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 5</td>
+<td style="text-align: left;"><span class="arithmatex">\(log_a\frac{1}{x}=-log_ax\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\(log_3\frac{1}{27}=-log_327\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 6</td>
+<td style="text-align: left;"><span class="arithmatex">\(log_aa^x=x\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\(log_22^4=4\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 7</td>
+<td style="text-align: left;"><span class="arithmatex">\(a^{log_ax}=x\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\(10^{log_{10}100=100}\)</span></td>
+</tr>
+<tr>
+<td style="text-align: left;">Law 8</td>
+<td style="text-align: left;"><span class="arithmatex">\(log_bx=\frac{log_ax}{log_ab}\)</span></td>
+<td style="text-align: left;"><span class="arithmatex">\(log_416=\frac{log_216}{log_24}\)</span></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Logs are used to solve practical problems.</li>
+</ul>
+<hr />
+<p>&nbsp;</p>
+<h1 id="examples">Examples</h1>
+<hr />
+<p>&nbsp;</p>
+<div class="arithmatex">\[
+\displaylines{
+\text{Solve }4^x=\frac{8}{\sqrt2}, x\in\mathbb{Q}
+\\\\
+(2^2)^x=\frac{2^3}{2^{\frac{1}{2}}}
+\\\\
+2^{2x}=2^{3-\frac{1}{2}}
+\\\\
+2x=x\frac{1}{2}
+\\\\
+x=\frac{2\frac{1}{2}}{2}
+\\\\
+x=1\frac{1}{4}
+}
+\]</div>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<div class="arithmatex">\[
+\displaylines{
+\text{Solve the equation: }
+\\\\
+3^{2x+1}-28(3x)+9=0
+\\\\
+(3^1)(3^{2x})-28(3x)+9=0
+\\\\
+3(3^x)^2-28(3^x)+9=0
+\\\\
+\text{let }3^x=y
+\\\\
+3y^2-28y+9=0
+\\\\
+3y^2-27y-1y+9=0
+\\\\
+3y(y-9)-1(y-9)=0
+\\\\
+(3y-1)(y-9)=0
+\\\\
+3y-1=0 \quad\text{ or }\quad y-9=0
+\\\\
+3y=1 \quad\text{ or }\quad y=9
+\\\\
+y=\frac{1}{3} \quad\text{ or }\quad y=9
+\\\\
+3^x=\frac{1}{3} \quad\text{ or }\quad 3^x=9
+\\\\
+\quad\quad\quad\quad\quad\quad\quad3^x=3^2
+\\\\
+\quad\quad\quad\quad\quad\quad\quad x=2
+}
+\]</div>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<div class="arithmatex">\[
+\displaylines{
+\text{Simplify:}
+\\\\
+\sqrt{50}+\sqrt{8}+\sqrt{32}
+\\\\
+\sqrt{25}\sqrt2+\sqrt4\sqrt2+\sqrt{16}\sqrt2
+\\\\
+5\sqrt2+2\sqrt2+4\sqrt2
+\\\\
+11\sqrt2
+}
+\]</div>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<div class="arithmatex">\[
+\displaylines{
+\text{Simplify: }
+\\\\
+(\sqrt5+2\sqrt2)(\sqrt5-\sqrt2)
+\\\\
+\sqrt5(\sqrt5-\sqrt2)+2\sqrt2(\sqrt5-\sqrt2)
+\\\\
+5-\sqrt{10}+2\sqrt{10}-2(2)
+\\\\
+5+\sqrt{10}-4
+\\\\
+1+\sqrt{10}
+}
+\]</div>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<div class="arithmatex">\[
+\displaylines{
+\text{Rationalise the Denominator: }
+\\\\
+\text{i)}\quad \frac{5}{\sqrt5}
+\\\\
+\frac{5}{\sqrt5}\cdot\frac{\sqrt5}{\sqrt5}
+\\\\
+\frac{5\sqrt5}{5}
+\\\\
+\sqrt5
+\\\\
+\\\\
+\text{ii)}\quad \frac{4\sqrt{15}}{\sqrt{20}}
+\\\\
+\frac{4\sqrt{15}}{\sqrt{20}}\cdot\frac{\sqrt{20}}{\sqrt{20}}
+\\\\
+\frac{4\sqrt{300}}{20}
+\\\\
+\frac{4\sqrt{100}\sqrt{3}}{20}
+\\\\
+\frac{4(10)(\sqrt3)}{20}
+\\\\
+\frac{40\sqrt2}{20}
+\\\\
+2\sqrt3
+\\\\
+\\\\
+\text{iii)}\quad \frac{\sqrt2-\sqrt3}{\sqrt2+\sqrt3}
+\\\\
+\frac{\sqrt2-\sqrt3}{\sqrt2+\sqrt3} \cdot \frac{\sqrt2-\sqrt3}{\sqrt2-\sqrt3}
+\\\\
+\frac{\sqrt2(\sqrt2-\sqrt3)-\sqrt3(\sqrt2-\sqrt3)}{\sqrt2(\sqrt2-\sqrt3)+\sqrt3(\sqrt2-\sqrt3)}
+\\\\
+\frac{2-\sqrt6-\sqrt6+3}{2-\sqrt6+\sqrt6-3}
+\\\\
+\frac{5-2\sqrt6}{-1}
+\\\\
+-5+2\sqrt6
+}
+\]</div>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<div class="arithmatex">\[
+\displaylines{
+\text{Evaluate: }\quad log_{16}64
+\\\\
+log_{16}64=x
+\\\\
+16^x=64
+\\\\
+(4^2)^x=4^3
+\\\\
+2x=3
+\\\\
+x=\frac{3}{2}
+}
+\]</div>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<div class="arithmatex">\[
+\displaylines{
+\text{Solve }\quad log_{10}(3x+1)=2
+\\\\
+3x+1=10^2
+\\\\
+3x+1=100
+\\\\
+3x=100-1
+\\\\
+3x=99
+\\\\
+x=33
+}
+\]</div>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<div class="arithmatex">\[
+\displaylines{
+\text{Solve }\quad log_2(x+3)=log_2(x-9)^2
+\\\\
+(x+3)=(x-9)^2
+\\\\
+x+3=x(x-9)-9(x-9)
+\\\\
+x+3=x^2-18x+81
+\\\\
+x^2-19x+78=0
+\\\\
+x^2-13x-6x+78=0
+\\\\
+x(x-13)-6(x-13)=0
+\\\\
+(x-6)(x-13)=0
+\\\\
+x=6\quad\text{ or }\quad x=13
+}
+\]</div>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<div class="arithmatex">\[
+\displaylines{
+\text{Solve }\quad log_2(x+1)-log_2(x-1)=1,x\gt1
+\\\\
+log_2(\frac{x+1}{x-1})=1
+\\\\
+\frac{x+1}{x-1}=2^1
+\\\\
+\frac{x+1}{x-1}=2
+\\\\
+x+1=2(x-1)
+\\\\
+x+1=2x-2
+\\\\
+2x-x=2+1
+\\\\
+x=3
+}
+\]</div>
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<div class="arithmatex">\[
+\displaylines{
+\text{Solve }\quad  4log_x2=log_2x+3\quad,x&gt;1,x\in\mathbb{R}
+\\\\
+log_x2^4=log_2x+3
+\\\\
+\frac{log_216}{log_2x}=log_2x+3
+\\\\
+\frac{4}{log_2x}=log_2x+3
+\\\\
+\text{Let }\quad log_2x=y
+\\\\
+\frac{4}{y}=y+3
+\\\\
+4=y^2+3y
+\\\\
+y^2+3y-4=0
+\\\\
+(y-1)(y+4)=0
+\\\\
+y=1\quad\text{ or }\quad y=-4
+\\\\
+\\\\
+log_2x=1\quad\text{ or }\quad log_2x=-4
+\\\\
+x=2\quad\quad\text{ or }\quad\quad x=\frac{1}{16}
+}
+\]</div>
+
+
+    </section>
+
+        </main>
+    <a id="darkmodetoggle" onclick="switchTheme()"><img src="/pix/dark_mode.svg"></a>
+    </body>
+</html>
