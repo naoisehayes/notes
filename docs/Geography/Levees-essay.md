@@ -1,5 +1,4 @@
 title: levees - Essay
-
 description: Exam essay on levee
 
 ---
@@ -15,17 +14,17 @@ What you need to do:
 - Explain the formation of the landform focusing on the processes of deposition.
 
 - State what deposition is and why it occurs.
-  
+
   ---
-  
+
   **Levees**
-  
+
   In this answer processes involved in the formation of river levees will be examined. Levees are landforms formed by the processes of river deposition during flooding.
-  
+
   **Irish example:** the banks of the River Moy in County Mayo.
-  
+
   **The formation of levees**
-  
+
   A levee is a wide ridge of sediment on the banks of the river. They are landforms of deposition often found in the lower stage of sediments-laden rivers
 
 River deposition occurs when the river loses energy and can't carry its load. This can happen for a variety of reasons, e.g. the river may slow down when it floods onto its floodplain and suddenly becomes shallower. Levees form because of flooding. During normal flow the river is confined in its channel and deposition will occur on the river bed. However, during the flood event the river overflows its channel and pours over the floodplain.
